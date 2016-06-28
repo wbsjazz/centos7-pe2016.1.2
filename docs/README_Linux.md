@@ -31,7 +31,7 @@ Install each product according to its instructions.  When complete, install the 
 
 	mkdir -p ~/Projects/Vagrant
 	cd ~/Projects/Vagrant
-	git clone https://github.com/cvquesty/centos7-2016.1.2.git
+	git clone https://github.com/wbsjazz/centos7-2016.1.2.git
 	
 **Change to the Directory and Lauch Vagrant**
 

@@ -39,7 +39,7 @@ Move it to the C:\Users\username\\.vagrant.d\\.pe_build directory.
 
 In Windows Explorer, navigate to a location within which to create your project.  From there, clone the git repository.
 
-	git clone https://github.com/cvquesty/centos7-2016.1.2.git
+	git clone https://github.com/wbsjazz/centos7-2016.1.2.git
 
 **Change to the Directory and Launch Vagrant**
 
